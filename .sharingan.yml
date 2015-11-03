@@ -1,2 +1,2 @@
 script:
- - cabal install
+ - stack install
