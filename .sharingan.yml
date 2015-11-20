@@ -1,2 +1,3 @@
 script:
+ - stack clean
  - stack install
